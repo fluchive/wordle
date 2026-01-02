@@ -8,7 +8,7 @@ Scraped Wayback Machine Wordle files from before 12th Feb 2021, right before New
 
 ### Online
 
-- Head over to [the site](https://acebos.github.io/wordle/wordle.html)
+- Head over to the site
 - Play like normal
 
 ### Offline
@@ -27,7 +27,7 @@ The easier method.
 
 ## Resetting Wordle
 
-If you'd like to reset Wordle and lose all your progress for the day and all your stats you will need to find `acebos.github.io` in your browser settings. [Here's a tutorial for clearing your cache for a specific site like Wordle.](https://12ft.io/proxy?q=https%3A%2F%2Fthefilibusterblog.com%2Fsbros-wordle-kak-ochen-legko-ochistit-wordle-en%2F)
+If you'd like to reset Wordle and lose all your progress for the day and all your stats you will need to find the URL in your browser settings. [Here's a tutorial for clearing your cache for a specific site like Wordle.](https://12ft.io/proxy?q=https%3A%2F%2Fthefilibusterblog.com%2Fsbros-wordle-kak-ochen-legko-ochistit-wordle-en%2F)
 
 ## Disclaimer
 
